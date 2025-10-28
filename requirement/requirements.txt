@@ -1,0 +1,73 @@
+Email 1: 
+Subject Line: From Soil to Success 
+Preview Text: Turn every hectare into a profitable, living investment.
+Headerbanner: 
+
+<From Soil to Success.jpg>
+
+Hi {{first_name}},
+Every great harvest starts with strengthening your crops from the inside out.
+With VITALARCH™, you’re not just feeding your crops!
+It’s fully natural compounds enhance nutrient uptake and stimulate growth, leading to robust, uniform, and profitable harvests.
+✅ Increased nutrient efficiency
+✅ More uniform fruiting and grain fill
+✅ Consistent performance across variable conditions
+✅ Stronger plant growth and root development
+✅ Up to 30% more yield without extra inputs
+Invest in your crop today harvest success tomorrow! And make every hectare becomes a powerhouse of productivity.
+CTA button: Discover the Secret
+Footer
+-----------------------------------------------------------------------------------------------------------
+Email 2
+Subject Line: Grow More. Spend Less. 
+Preview Text: Cut your input costs by 30%, and still boost your yields.
+Header banner: 
+
+<Grow more spend less.jpg>
+
+Hi (First name),
+Farming costs keep rising, but your yields don’t have to suffer.
+With VITALARCH™, you can achieve the same or better results using 30% less fertilizer and inputs.
+Our Evolutional Biomass Technology improves nutrient uptake and root efficiency, helping your crops do more with less.
+✅ Up to 30% reduction in fertilizer use
+✅ Consistent or increased yields
+✅ Proven performance on maize, soy, and citrus
+Less cost. More yield. Real evolution.
+CTA button: See How It Works
+Footer
+-----------------------------------------------------------------------------------------------------------
+Email 3:
+Subject Line: The Secret Behind Profitable Yields 
+Preview Text: It’s not just a product,  it’s a natural evolution in farming.
+
+Header banner: 
+<The secret behind profitable yields.jpg>
+
+Hi (First name) 
+At EcoAarde, we believe profitable farming starts with healthy soil and strong plants.
+That’s why we created VITALARCH™, a Natural Organic Biomass Enhancer designed to activate your soil and supercharge your crop performance.
+With VitaLarch™, you’ll experience:
+✅ Stronger root development for better nutrient absorption
+✅ Naturally improved soil fertility
+✅ Up to 30% higher yields on maize, soya, and fruit crops
+It’s not just growth, it’s evolution in action!
+CTA Button: Discover the Secret
+Footer
+-----------------------------------------------------------------------------------------------------------
+Email 4:
+Subject Line: The Smart Way to Farm 
+Preview Text: VITALARCH™ helps your soil and wallet grow stronger together.
+
+<The Smart way to farm.jpg>
+
+Hi (first name)
+Every drop and grain counts.
+VITALARCH™ boosts nutrient absorption and root development, ensuring nothing goes to waste.
+Farmers who switch to VITALARCH™ report:
+✅ Healthier cops with less fertilizer needed
+✅ Stronger root networks for better drought tolerance
+✅ Lower overall costs per hectare
+Efficiency isn’t about spending more, it’s about farming smarter.
+CTA:  Start Saving Today
+Footer
+
