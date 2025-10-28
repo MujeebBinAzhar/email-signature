@@ -1,7 +1,12 @@
+
+logo image link: https://raw.githubusercontent.com/MujeebBinAzhar/email-signature/refs/heads/main/requirement/EcoAarde%20Logo%20(2).png
+
 Email 1: 
 Subject Line: From Soil to Success 
 Preview Text: Turn every hectare into a profitable, living investment.
 Headerbanner: 
+
+
 
 <From Soil to Success.jpg>
 
