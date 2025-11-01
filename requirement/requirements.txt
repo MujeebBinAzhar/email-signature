@@ -1,5 +1,5 @@
 
-logo image link: https://github.com/MujeebBinAzhar/email-signature/blob/main/requirement/logo.png?raw=true
+logo image link: https://github.com/MujeebBinAzhar/email-signature/blob/main/requirement/logo-1.png?raw=true
 background image link: https://github.com/MujeebBinAzhar/email-signature/blob/main/requirement/backgrount.jpg?raw=true
 Email 1: 
 Subject Line: From Soil to Success 
